@@ -59,7 +59,7 @@ https://localhost:3000/
 * [Angular](https://angular.io/) - The web framework used
 * [Arduino](https://www.arduino.cc/) - IOT
 * [NodeJS](https://nodejs.org/en/) - Server side application
-* [Socket.io] (https://socket.io/) - Use as a real-time engine
+* [Socket.io](https://socket.io/) - Use as a real-time engine
 
 ## Authors
 
