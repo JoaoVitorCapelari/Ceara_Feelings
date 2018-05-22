@@ -34,8 +34,6 @@ You will need:
 
 - Angular CLI Installed (https://angular.io/guide/quickstart)
 
-Go to folder where app.js is locate and run
-
 On main folder and '/angular/cearaFeelings/' run:
 ```
 npm install
