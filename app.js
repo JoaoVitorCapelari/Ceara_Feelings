@@ -28,8 +28,8 @@ var datetime = new Date();
         io.emit('tU', {
             U: s[0],
             T: s[1],
-            Date: datetime.toLocaleDateString(),
-            Time: datetime.toLocaleTimeString()
+            date: datetime.toLocaleDateString(),
+            time: datetime.toLocaleTimeString()
         });
     console.log(tempUmpTime);
   });

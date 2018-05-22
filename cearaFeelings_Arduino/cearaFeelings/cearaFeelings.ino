@@ -44,5 +44,5 @@ void loop()
     Serial.print(buffer);
   
   }
-  delay(60000);
+  delay(10000);
 }
